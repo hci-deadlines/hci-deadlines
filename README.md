@@ -1,5 +1,10 @@
-## HCI Deadlines ![GitHub license](https://img.shields.io/badge/license-MIT-red.svg?style=flat-square)
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
+# ⛔️ DEPRECATED : No longer maintained / looking for new maintainer
+
+If interested in maintaining this erpository, please contact the owner [here](https://make.kaist.ac.kr/contact).
+
+## HCI Deadlines ![GitHub license](https://img.shields.io/badge/license-MIT-red.svg?style=flat-square)
 
 Countdown timers to keep track of a bunch of Human-Computer Interaction conference deadlines.
 
