@@ -2,7 +2,7 @@
 
 # ⛔️ DEPRECATED : No longer maintained / looking for new maintainer
 
-If interested in maintaining this erpository, please contact the owner [here](https://make.kaist.ac.kr/contact).
+If interested in maintaining this repository, please contact the owner [here](https://make.kaist.ac.kr/contact).
 
 ## HCI Deadlines
 
