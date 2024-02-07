@@ -22,7 +22,7 @@ jobs:
           author_email: andrea@kaist.ac.kr
           fetch: false
           message: 'Autogenerating merged conferences files'
-          push: false
+          push: true
 
       - name: test
         run: ls ${PWD}/_data
