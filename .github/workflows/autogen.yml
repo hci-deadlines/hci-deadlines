@@ -1,5 +1,4 @@
 name: autogenerate-conferences
-description: generetate the conferences.yml files from a list of files
 
 on:
   push:
