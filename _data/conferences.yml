@@ -186,6 +186,21 @@
   sub: HCI
   note: Mandatory abstract deadline on February 15, 2023.
 
+- title: CUI
+  year: 2024
+  id: cui24
+  full_name: Conversational User Interfaces
+  link: https://cui.acm.org/2024/
+  deadline: '2023-02-22 23:59:59'
+  abstract_deadline: '2024-02-29 23:59:59'
+  timezone: UTC-12
+  place: Luxembourg City, Luxembourg
+  date: July, 8-10, 2024
+  start: 2024-07-08
+  end: 2024-07-10
+  sub: HCI
+  note: Mandatory abstract deadline on February 22, 2024.
+
 - title: DIS
   year: 2023
   id: dis23
@@ -252,6 +267,20 @@
   end: 2023-06-15
   sub: HCI
   note: Mandatory abstract deadline on January 30, 2023.
+
+- title: FAccT
+  year: 2024
+  id: facct24
+  link: https://facctconference.org/2024/cfp.html
+  deadline: '2024-01-22 23:59:59'
+  abstract_deadline: '2024-01-15 23:59:59'
+  timezone: UTC-12
+  place: Rio de Janeiro, Brazil
+  date: June, 3-6, 2024
+  start: 2024-06-03
+  end: 2024-06-06
+  sub: HCI
+  note: Mandatory abstract deadline on January 15, 2024.
 
 - title: HRI
   year: 2023
