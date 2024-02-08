@@ -421,6 +421,18 @@
   end: 2023-11-08
   sub: HCI
 
+- title: ISS (February round)
+  year: 2024
+  id: iss24a
+  link: https://iss2024.acm.org/track/iss-2024-papers
+  deadline: '2024-02-22 23:59:59'
+  timezone: UTC-12
+  place: Seattle, United States
+  date: October, 27-30, 2024
+  start: 2024-10-27
+  end: 2024-10-30
+  sub: HCI
+
 - title: ISWC Notes & Brief
   year: 2023
   id: iswc23
@@ -431,6 +443,18 @@
   date: October, 8-12, 2023
   start: 2023-10-08
   end: 2023-10-12
+  sub: HCI
+
+- title: ISWC Notes & Brief
+  year: 2024
+  id: iswc23
+  link: https://www.ubicomp.org/ubicomp-iswc-2024/authors/
+  deadline: '2024-05-17 23:59:59'
+  timezone: UTC-12
+  place: Melbourne, Australia
+  date: October, 5-9, 2024
+  start: 2024-10-05
+  end: 2024-10-09
   sub: HCI
 
 - title: IUI
@@ -456,8 +480,20 @@
   date: September, 26-29, 2023
   start: 2023-09-26
   end: 2023-09-29
-  hindex: -1
   sub: HCI
+
+- title: MobileHCI
+  year: 2024
+  id: mobilehci24
+  link: https://mobilehci.acm.org/2024/callforpapers.php
+  deadline: '2024-02-21 23:59:59'
+  timezone: UTC-12
+  place: Melbourne, Australia
+  date: September 30 - October 3, 2024
+  start: 2024-09-30
+  end: 2024-10-03
+  sub: HCI
+  note: Mandatory abstract deadline on February 14, 2024.
 
 - title: IEEE PacificVis
   year: 2024
@@ -563,6 +599,20 @@
   end: 2023-10-06
   sub: HCI
   note: Mandatory abstract deadline on April 21, 2023.
+
+- title: VL/HCC
+  year: 2024
+  id: vlhcc24
+  link: https://conf.researchr.org/home/vlhcc-2024
+  deadline: '2024-04-26 23:59:59'
+  abstract_deadline: '2024-04-19 23:59:59'
+  timezone: UTC-12
+  place: Liverpool, UK
+  date: September, 2-6, 2024
+  start: 2024-09-02
+  end: 2024-09-06
+  sub: HCI
+  note: Mandatory abstract deadline on April 19, 2024.
 
 - title: IEEE VR
   year: 2023
