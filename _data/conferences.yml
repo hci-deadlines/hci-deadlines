@@ -11,6 +11,18 @@
   end: 2023-09-13
   sub: HCI
 
+- title: ACII
+  year: 2024
+  id: acii2024
+  link: https://acii-conf.net/2024/calls/papers/
+  deadline: '2024-03-15 23:59:59'
+  timezone: UTC-12
+  place: Glasgow, UK
+  date: September, 16-18, 2024
+  start: 2024-09-16
+  end: 2024-09-18
+  sub: HCI
+
 - title: ASSETS
   year: 2023
   id: assets23
@@ -21,7 +33,18 @@
   date: October, 23-25, 2023
   start: 2023-10-23
   end: 2023-10-25
-  hindex: -1
+  sub: HCI
+
+- title: ASSETS
+  year: 2024
+  id: assets24
+  link: https://assets24.sigaccess.org
+  deadline: '2024-04-24 23:59:59'
+  timezone: UTC-12
+  place: St Johns, Newfoundland and Labrador, Canada
+  date: October, 27-30, 2024
+  start: 2024-10-27
+  end: 2024-10-30
   sub: HCI
 
 - title: AutoUI
@@ -34,9 +57,21 @@
   date: September, 18-21, 2023
   start: 2023-09-18
   end: 2023-09-21
-  hindex: 33
   sub: HCI
   note: Mandatory abstract deadline on April 12, 2023.
+
+- title: AutoUI
+  year: 2024
+  id: autoui24
+  link: https://www.auto-ui.org/24/
+  deadline: '2024-04-17 23:59:59'
+  timezone: UTC-12
+  place: Stanford, CA, USA
+  date: September, 22-25, 2024
+  start: 2024-09-22
+  end: 2024-09-25
+  sub: HCI
+  note: Mandatory abstract deadline on April 10, 2024.
 
 - title: CHI
   year: 2023
