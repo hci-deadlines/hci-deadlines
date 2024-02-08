@@ -83,7 +83,6 @@
   date: April, 23-28, 2023
   start: 2023-04-23
   end: 2023-04-28
-  hindex: 113
   sub: HCI
 
 - title: CHI
@@ -96,7 +95,6 @@
   date: May, 11-16, 2024
   start: 2024-05-11
   end: 2024-05-16
-  hindex: 113
   sub: HCI
   note: Mandatory abstract deadline on September 7, 2023.
 
@@ -110,6 +108,18 @@
   date: October, 10-13, 2023
   start: 2023-10-10
   end: 2023-10-13
+  sub: HCI
+
+- title: CHI PLAY
+  year: 2024
+  id: chiplay24
+  link: https://chiplay.acm.org/2024/
+  deadline: '2024-02-21 23:59:59'
+  timezone: UTC-12
+  place: Tampere, Finland
+  date: October, 14-17, 2024
+  start: 2024-10-14
+  end: 2024-10-17
   sub: HCI
 
 - title: CHItaly
