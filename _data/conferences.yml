@@ -409,9 +409,21 @@
   date: October 29 - November 01, 2023
   start: 2023-10-29
   end: 2023-11-01
-  hindex: 44
   sub: HCI
   note: Mandatory abstract deadline on March 30, 2023.
+
+- title: UIST
+  year: 2024
+  id: uist24
+  link: https://uist.acm.org/2024/
+  deadline: '2024-04-03 17:00:00'
+  timezone: UTC-8
+  place: Pittsburgh, USA
+  date: October 13-16, 2024
+  start: 2023-10-13
+  end: 2023-10-16
+  sub: HCI
+  note: Mandatory abstract deadline on March 27, 2024.
 
 - title: VIS
   year: 2023
