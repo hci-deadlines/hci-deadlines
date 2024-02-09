@@ -294,6 +294,19 @@
   sub: HCI
   note: Mandatory abstract deadline on January 15, 2024.
 
+- title: GROUP (second wave)
+  year: 2025
+  id: group25
+  link: https://group.acm.org/conferences/group25/
+  deadline: '2024-05-08 23:59:59'
+  timezone: UTC-12
+  place: Sonesta Resort, South Carolina, USA
+  date: January, 12-15, 2025
+  start: 2025-01-12
+  end: 2025-01-15
+  sub: HCI
+  note: Mandatory abstract deadline on May 1, 2024.
+
 - title: HRI
   year: 2023
   id: hri23
@@ -691,6 +704,19 @@
   end: 2023-10-11
   sub: XR
   note: Mandatory abstract deadline on June 12, 2023.
+
+- title: VRST
+  year: 2024
+  id: vrst24
+  link: https://vrst.acm.org/vrst2024/
+  deadline: 'TBD'
+  timezone: UTC-12
+  place: Trier, Germany
+  date: October, 9-11, 2024
+  start: 2024-10-09
+  end: 2024-10-11
+  sub: XR
+  # note: Mandatory abstract deadline on June 12, 2024.
 
 - title: World Haptics
   year: 2023
