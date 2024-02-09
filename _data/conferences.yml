@@ -396,6 +396,42 @@
   hindex: 58
   sub: HCI
 
+- title: Ubicomp/ISWC (IMWUT Issue 1)
+  year: 2024
+  id: imwut24_1
+  link: https://www.ubicomp.org/ubicomp-iswc-2024/imwut_papers/
+  deadline: '2023-11-15 23:59:59'
+  timezone: UTC-12
+  place: Melbourne, Australia
+  date: October, 5-9, 2024
+  start: 2024-10-05
+  end: 2024-10-09
+  sub: HCI
+
+- title: Ubicomp/ISWC (IMWUT Issue 2)
+  year: 2024
+  id: imwut24_2
+  link: https://www.ubicomp.org/ubicomp-iswc-2024/imwut_papers/
+  deadline: '2024-02-01 23:59:59'
+  timezone: UTC-12
+  place: Melbourne, Australia
+  date: October, 5-9, 2024
+  start: 2024-10-05
+  end: 2024-10-09
+  sub: HCI
+
+- title: Ubicomp/ISWC (IMWUT Issue 3)
+  year: 2024
+  id: imwut24_3
+  link: https://www.ubicomp.org/ubicomp-iswc-2024/imwut_papers/
+  deadline: '2024-05-01 23:59:59'
+  timezone: UTC-12
+  place: Melbourne, Australia
+  date: October, 5-9, 2024
+  start: 2024-10-05
+  end: 2024-10-09
+  sub: HCI
+
 - title: ISMAR (Journal Papers)
   year: 2023
   id: ismar23j
