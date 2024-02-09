@@ -47,6 +47,18 @@
   end: 2024-10-30
   sub: HCI
 
+- title: Augmented Humans
+  year: 2024
+  id: ah24
+  link: https://augmented-humans.org/calls-for-participation/
+  deadline: '2023-01-16 23:59:59'
+  timezone: UTC-12
+  place: Melbourne, Australia
+  date: April, 4-6, 2024
+  start: 2024-04-04
+  end: 2024-04-06
+  sub: HCI
+
 - title: AutoUI
   year: 2023
   id: autoui23
@@ -512,7 +524,7 @@
 
 - title: SUI
   year: 2023
-  id: sui2023
+  id: sui23
   link: https://sui.acm.org/2023/papers
   deadline: '2023-06-23 23:59:59'
   timezone: UTC-12
@@ -520,6 +532,18 @@
   date: October, 13-15, 2023
   start: 2023-10-13
   end: 2023-10-15
+  sub: HCI
+
+- title: SUI
+  year: 2024
+  id: sui24
+  link: https://sui.acm.org/2024/papers
+  deadline: '2024-06-10 23:59:59'
+  timezone: UTC-12
+  place: Trier, Germany
+  date: October, 7-8, 2024
+  start: 2024-10-07
+  end: 2024-10-08
   sub: HCI
 
 - title: TEI
@@ -582,9 +606,21 @@
   date: October, 22-27, 2023
   start: 2023-10-22
   end: 2023-10-27
-  hindex: 148
   sub: VIS
   note: Mandatory abstract deadline on March 21, 2023.
+
+- title: VIS
+  year: 2024
+  id: vis24
+  link: https://ieeevis.org/year/2024/info/call-participation/call-for-participation
+  deadline: '2024-03-31 23:59:59'
+  timezone: UTC-12
+  place: St. Pete Beach, Florida
+  date: October, 13-18, 2024
+  start: 2024-10-13
+  end: 2024-10-18
+  sub: VIS
+  note: Mandatory abstract deadline on March 21, 2024.
 
 - title: VL/HCC
   year: 2023
@@ -666,5 +702,16 @@
   date: July, 10-13, 2023
   start: 2023-07-10
   end: 2023-07-13
-  hindex: -1
+  sub: HAP
+
+- title: World Haptics
+  year: 2025
+  id: wh25
+  link: https://2025.worldhaptics.org
+  deadline: 'TBD'
+  timezone: UTC-8
+  place: Suwon, Korea
+  date: July, 8-11, 2025
+  start: 2025-07-08
+  end: 2025-07-11
   sub: HAP
