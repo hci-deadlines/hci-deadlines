@@ -458,6 +458,34 @@
   sub: XR
   note: Mandatory abstract deadline on June 5, 2023.
 
+- title: ISMAR (Journal Papers)
+  year: 2024
+  id: ismar24j
+  link: https://ieeeismar.org/cfp/
+  deadline: '2024-03-14 23:59:59'
+  abstract_deadline: '2024-03-07 23:59:59'
+  timezone: UTC-12
+  place: Greater Seattle Area, USA
+  date: October, 21-25, 2024
+  start: 2024-10-21
+  end: 2024-10-25
+  sub: XR
+  note: Mandatory abstract deadline on March 7, 2024.
+
+- title: ISMAR (Conference Papers)
+  year: 2024
+  id: ismar24c
+  link: https://ieeeismar.org/cfp/
+  deadline: '2024-05-08 23:59:59'
+  abstract_deadline: '2024-05-03 23:59:59'
+  timezone: UTC-12
+  place: Greater Seattle Area, USA
+  date: October, 21-25, 2024
+  start: 2024-10-21
+  end: 2024-10-25
+  sub: XR
+  note: Mandatory abstract deadline on May 3, 2024.
+
 - title: ISS (February round)
   year: 2023
   id: iss23a
