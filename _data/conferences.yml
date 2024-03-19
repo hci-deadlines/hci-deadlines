@@ -331,6 +331,21 @@
   end: 2024-03-15
   sub: HRI
 
+- title: HRI
+  year: 2025
+  id: hri25
+  link: https://humanrobotinteraction.org/2025
+  deadline: '2024-10-01 23:59:59'
+  abstract_deadline: '2024-09-23 23:59:59'
+  timezone: UTC-12
+  place: Melbourne, Australia
+  date: March, 3-6, 2025
+  start: 2025-03-03
+  end: 2025-03-06
+  sub: HRI
+  note: Abstract deadline on September 23, 2024.
+
+
 - title: ICMI
   year: 2023
   id: icmi2023
