@@ -712,7 +712,20 @@
   start: 2024-10-13
   end: 2024-10-18
   sub: VIS
-  note: Mandatory abstract deadline on March 21, 2024.
+  note: Mandatory abstract deadline for _full papers_ on March 21, 2024.
+
+- title: VIS
+  year: 2024
+  id: vis24Short
+  link: https://ieeevis.org/year/2024/info/call-participation/shortpapers
+  deadline: '2024-04-30 23:59:59'
+  timezone: UTC-12
+  place: St. Pete Beach, Florida
+  date: October, 13-18, 2024
+  start: 2024-10-13
+  end: 2024-10-18
+  sub: VIS
+  note: Short papers deadeline, no abstract deadline.
 
 - title: VL/HCC
   year: 2023
