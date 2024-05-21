@@ -110,6 +110,19 @@
   sub: HCI
   note: Mandatory abstract deadline on September 7, 2023.
 
+- title: CHI
+  year: 2025
+  id: chi25
+  link: https://chi2025.acm.org
+  deadline: '2024-09-12 23:59:59'
+  timezone: UTC-12
+  place: Yokohama, Japan
+  date: April, 26 - May, 1, 2025
+  start: 2025-04-26
+  end: 2025-05-01
+  sub: HCI
+  note: Mandatory abstract deadline on September 5, 2024.
+
 - title: CHI PLAY
   year: 2023
   id: chiplay23
