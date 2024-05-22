@@ -675,6 +675,19 @@
   end: 2024-02-14
   sub: HCI
 
+- title: TEI
+  year: 2025
+  id: tei25
+  link: https://tei.acm.org/2025/participate/papers
+  deadline: '2024-08-01 23:59:59'
+  timezone: UTC-12
+  place: Bordeaux, France
+  date: March, 4-7, 2025
+  start: 2025-03-04
+  end: 2025-03-07
+  sub: HCI
+  note: Mandatory abstract deadline on July 25, 2024.
+
 - title: UIST
   year: 2023
   id: uist23
