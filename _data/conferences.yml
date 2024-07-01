@@ -279,6 +279,46 @@
   end: 2024-06-28
   sub: HCI
 
+- title: EICS PACM (Round 1)
+  year: 2025
+  id: eics25_1
+  full_name: Symposium on Engineering Interactive Computing Systems
+  link: https://eics.acm.org/2025/
+  deadline: '2024-07-26 23:59:59'
+  timezone: UTC-12
+  place: Trier, Germany
+  date: June, 24-28, 2025
+  start: 2025-06-24
+  end: 2025-06-28
+  sub: HCI
+
+- title: EICS PACM (Round 2)
+  year: 2025
+  id: eics25_2
+  full_name: Symposium on Engineering Interactive Computing Systems
+  link: https://eics.acm.org/2025/
+  deadline: '2024-10-25 23:59:59'
+  timezone: UTC-12
+  place: Trier, Germany
+  date: June, 24-28, 2025
+  start: 2025-06-24
+  end: 2025-06-28
+  sub: HCI
+
+- title: EICS PACM (Round 3)
+  year: 2025
+  id: eics25_3
+  full_name: Symposium on Engineering Interactive Computing Systems
+  link: https://eics.acm.org/2025/
+  deadline: '2025-02-14 23:59:59'
+  timezone: UTC-12
+  place: Trier, Germany
+  date: June, 24-28, 2025
+  start: 2025-06-24
+  end: 2025-06-28
+  sub: HCI
+
+
 - title: FAccT
   year: 2023
   id: facct23
