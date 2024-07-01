@@ -863,6 +863,21 @@
   sub: XR
   note: Full paper track (Conference and TVCG Journal)
 
+- title: IEEE VR
+  year: 2025
+  id: ieeevr2025
+  full_name: IEEE Conference on Virtual Reality and 3D User Interfaces
+  link: https://ieeevr.org/2025/contribute/papers/
+  deadline: '2024-09-18 23:59:59'
+  abstract_deadline: '2024-09-11 23:59:59'
+  timezone: UTC-12
+  place: Saint-Malo, France
+  date: March, 8-12, 2025
+  start: 2025-03-08
+  end: 2025-03-12
+  sub: XR
+  note:  Mandatory abstract deadline on September 11, 2024.
+
 - title: VRST
   year: 2023
   id: vrst23
