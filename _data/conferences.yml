@@ -253,6 +253,20 @@
   sub: DES
   note: Mandatory abstract deadline on February 1, 2024.
 
+- title: DIS
+  year: 2025
+  id: dis25
+  link: https://dis.acm.org/2025/
+  deadline: '2025-01-19 23:59:59'
+  abstract_deadline: '2025-01-12 23:59:59'
+  timezone: UTC-12
+  place: Funchal, Madeira
+  date: July, 5-9, 2025
+  start: 2025-07-05
+  end: 2025-07-09
+  sub: DES
+  note: Mandatory abstract deadline on January 12, 2025.
+
 - title: EICS PACM (Round 2)
   year: 2024
   id: eics24_2
