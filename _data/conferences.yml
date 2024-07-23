@@ -694,6 +694,21 @@
   sub: VIS
   note: Conference paper track
 
+- title: IEEE PacificVis
+  year: 2025
+  id: pacificvis25
+  full_name: IEEE Pacific Visualization Symposium
+  link: https://pacificvis2025.github.io/pages/Common-call-for-papers.html
+  deadline: '2024-11-20 23:59:59'
+  abstract_deadline: '2024-11-13 23:59:59'
+  timezone: UTC-12
+  place: Taipei, Taiwan
+  date: April, 22-25, 2025
+  start: 2025-04-22
+  end: 2025-04-25
+  sub: VIS
+  note: Conference paper track
+
 - title: SUI
   year: 2023
   id: sui23
