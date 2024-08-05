@@ -84,7 +84,6 @@
   start: 2024-09-22
   end: 2024-09-25
   sub: HCI
-  note: Mandatory abstract deadline on April 10, 2024.
 
 - title: CHI
   year: 2023
@@ -123,7 +122,6 @@
   start: 2025-04-26
   end: 2025-05-01
   sub: HCI
-  note: Mandatory abstract deadline on September 5, 2024.
 
 - title: CHI PLAY
   year: 2023
@@ -211,7 +209,6 @@
   start: 2023-07-19
   end: 2023-07-21
   sub: HCI
-  note: Mandatory abstract deadline on February 15, 2023.
 
 - title: CUI
   year: 2024
@@ -226,7 +223,6 @@
   start: 2024-07-08
   end: 2024-07-10
   sub: HCI
-  note: Mandatory abstract deadline on February 22, 2024.
 
 - title: DIS
   year: 2023
@@ -253,7 +249,6 @@
   start: 2024-07-01
   end: 2024-07-05
   sub: DES
-  note: Mandatory abstract deadline on February 1, 2024.
 
 - title: DIS
   year: 2025
@@ -267,7 +262,6 @@
   start: 2025-07-05
   end: 2025-07-09
   sub: DES
-  note: Mandatory abstract deadline on January 12, 2025.
 
 - title: EICS PACM (Round 2)
   year: 2024
@@ -347,7 +341,6 @@
   start: 2023-06-12
   end: 2023-06-15
   sub: HCI
-  note: Mandatory abstract deadline on January 30, 2023.
 
 - title: FAccT
   year: 2024
@@ -361,7 +354,6 @@
   start: 2024-06-03
   end: 2024-06-06
   sub: HCI
-  note: Mandatory abstract deadline on January 15, 2024.
 
 - title: GROUP (second wave)
   year: 2025
@@ -375,7 +367,6 @@
   start: 2025-01-12
   end: 2025-01-15
   sub: HCI
-  note: Mandatory abstract deadline on May 1, 2024.
 
 - title: HRI
   year: 2023
@@ -413,7 +404,6 @@
   start: 2025-03-03
   end: 2025-03-06
   sub: HRI
-  note: Abstract deadline on September 23, 2024.
 
 
 - title: ICMI
@@ -440,7 +430,6 @@
   end: 2024-11-08
   sub: HCI
   abstract_deadline: '2023-04-26 23:59:59'
-  note: Mandatory abstract deadline on April 26, 2024.
 
 - title: Ubicomp/ISWC (IMWUT Issue 1)
   year: 2023
@@ -555,7 +544,6 @@
   start: 2024-10-21
   end: 2024-10-25
   sub: XR
-  note: Mandatory abstract deadline on March 7, 2024.
 
 - title: ISMAR (Conference Papers)
   year: 2024
@@ -569,7 +557,6 @@
   start: 2024-10-21
   end: 2024-10-25
   sub: XR
-  note: Mandatory abstract deadline on May 3, 2024.
 
 - title: ISS (February round)
   year: 2023
@@ -643,7 +630,6 @@
   start: 2025-03-24
   end: 2025-03-27
   sub: HCI
-  note: Mandatory abstract deadline on October 2, 2024.
 
 - title: IUI
   year: 2024
@@ -657,7 +643,6 @@
   start: 2024-03-18
   end: 2024-03-21
   sub: HCI
-  note: Mandatory abstract deadline on October 2, 2023.
 
 - title: MobileHCI
   year: 2023
@@ -683,7 +668,6 @@
   start: 2024-09-30
   end: 2024-10-03
   sub: HCI
-  note: Mandatory abstract deadline on February 14, 2024.
 
 - title: IEEE PacificVis
   year: 2024
@@ -775,7 +759,6 @@
   start: 2025-03-04
   end: 2025-03-07
   sub: HCI
-  note: Mandatory abstract deadline on July 25, 2024.
 
 - title: UIST
   year: 2023
@@ -802,7 +785,6 @@
   start: 2024-10-13
   end: 2024-10-16
   sub: HCI
-  note: Mandatory abstract deadline on March 27, 2024.
 
 - title: VIS
   year: 2023
@@ -855,7 +837,6 @@
   start: 2023-10-02
   end: 2023-10-06
   sub: HCI
-  note: Mandatory abstract deadline on April 21, 2023.
 
 - title: VL/HCC
   year: 2024
@@ -869,7 +850,6 @@
   start: 2024-09-02
   end: 2024-09-06
   sub: HCI
-  note: Mandatory abstract deadline on April 19, 2024.
 
 - title: IEEE VR
   year: 2023
@@ -913,7 +893,6 @@
   start: 2025-03-08
   end: 2025-03-12
   sub: XR
-  note:  Mandatory abstract deadline on September 11, 2024.
 
 - title: VRST
   year: 2023
@@ -940,7 +919,6 @@
   start: 2024-10-09
   end: 2024-10-11
   sub: XR
-  note: Mandatory abstract deadline on June 10, 2024.
 
 - title: World Haptics
   year: 2023
