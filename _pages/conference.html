@@ -59,19 +59,36 @@ permalink: /conference/
           <a id="conf-pwclink" target="_blank" nohref></a>
         </div>
       </div>
-      <div id="conf-deadline-info" class="row">
+      <div id="conf-deadline-download" class="row">
         <div class="meta deadline col-12 col-md-6">
           Download Conference deadline:
         </div>
         <div id="conference-deadline" class="calendar meta col-sm-12 col-md-6">
         </div>
+      </div>
+      <div id="abstract-deadline-info" class="row">
+        <div class="meta deadline col-12 col-md-6">
+          Abstract deadline in timezone from conference website:
+        </div>
+        <div class="meta col-sm-12 col-md-6">
+          <span class="abstract-deadline-time"></span>
+        </div>
+        <div class="local-timezone-hide meta col-sm-12 col-md-6">
+          Abstract deadline in your local <span class="local-timezone">America/New_York</span> timezone:
+        </div>
+        <div class="local-timezone-hide meta col-sm-12 col-md-6">
+          <span class="abstract-deadline-local-time"></span>
+        </div>
+
+      </div>
+      <div id="conf-deadline-info" class="row">
         <div class="meta deadline col-12 col-md-6">
           Deadline in timezone from conference website:
         </div>
         <div class="meta col-sm-12 col-md-6">
           <span class="deadline-time"></span>
         </div>
-        <div class="meta col-sm-12 col-md-6">
+        <div class="local-timezone-hide meta col-sm-12 col-md-6">
           Deadline in your local <span class="local-timezone">America/New_York</span> timezone:
         </div>
         <div class="local-timezone-hide meta col-sm-12 col-md-6">
@@ -151,7 +168,7 @@ permalink: /conference/
         var timezone = {% if conf.timezone %} "{{conf.timezone}}" {% else %} "America/New_York" {% endif %};
       var confDeadline = moment.tz("{{conf.deadline}}", timezone);
 
-      // add calendar 
+      // add calendar
       var conferenceDeadlineCalendar = createCalendarFromObject({
         id: '{{conf.id}}',
         title: '{{conf.title}} {{conf.year}} deadline',
@@ -174,6 +191,29 @@ permalink: /conference/
       catch (err) {
         console.log("Error converting to local timezone.");
       }
+
+      // abstract deadline
+      {% if conf.abstract_deadline %}
+      console.log("Abstract deadline: {{conf.abstract_deadline}}");
+      try {
+        var abstractDeadline = moment.tz("{{conf.abstract_deadline}}", timezone);
+        $('.abstract-deadline-time').html(abstractDeadline.toString());
+      } catch (err) {
+        console.log("Error parsing abstract deadline.");
+        $('#abstract-deadline-info').hide();
+      }
+      try {
+        var localAbstractDeadline = moment.tz(abstractDeadline, local_timezone);
+        $('.abstract-deadline-local-time').html(localAbstractDeadline.toString());
+      }
+      catch (err) {
+        console.log("Error converting to local timezone.");
+      }
+      {% else %}
+      console.log("No abstract deadline.");
+      $('#abstract-deadline-info').hide();
+      {% endif %}
+
       {% endif %}
     }
         {% endfor %}

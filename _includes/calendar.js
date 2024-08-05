@@ -41,7 +41,7 @@
               content +=
                 '<div class="event-tooltip-content">' +
                 '<div class="event-name ' + headline_color + '">' +
-                '<b>' + e.events[i].name + '</b>' + 
+                '<b>' + e.events[i].name + '</b>' +
                 '</div>' +
                 '<div class="event-location">' +
                 location_html +
@@ -98,6 +98,21 @@ function load_conference_list() {
       startDate: Date.parse("{{conf.deadline}}"),
       endDate: Date.parse("{{conf.deadline}}"),
     });
+
+    {% if conf.abstract_deadline != "" %}
+    conf_list_all.push({
+      id: "{{conf.id}}-abstract-deadline",
+      abbreviation: "{{conf.id}}",
+      name: "{{conf.title}} {{conf.year}} - Abstract Deadline",
+      color: "red",
+      location: "{{conf.place}}",
+      date: "{{conf.date}}",
+      hindex: "{{conf.hindex}}",
+      subject: "{{conf.sub}}",
+      startDate: Date.parse("{{conf.abstract_deadline}}"),
+      endDate: Date.parse("{{conf.abstract_deadline}}"),
+    });
+    {% endif %}
 
     // add Conferences in chosen color
     {% if conf.start != "" %}
