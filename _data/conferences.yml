@@ -196,6 +196,16 @@
   end: 2024-11-13
   sub: CSCW
 
+- title: CSCW (October cycle)
+  year: 2025
+  id: cscw25_october
+  link: https://cscw.acm.org/2025/index.php/submit-papers/
+  deadline: '2024-10-29 23:59:59'
+  timezone: UTC-12
+  place: TBD
+  date: October/November 2025
+  sub: CSCW
+
 - title: CUI
   year: 2023
   id: cui23
