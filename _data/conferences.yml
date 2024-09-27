@@ -339,6 +339,22 @@
   sub: HCI
 
 
+- title: evoMUSART
+  year: 2025
+  id: evomusart25
+  full_name: 14th International Conference on Artificial Intelligence in Music, Sound, Art and Design
+  link: https://www.evostar.org/2025/evomusart/
+  deadline: 2024-11-01 23:59
+  abstract_deadline: 2024-11-01 23:59
+  timezone: UTC-12
+  place: Trieste, Italy
+  date: April, 23-25, 2025
+  start: 2025-04-23
+  end: 2025-04-25
+  paperslink: https://evomusart-index.dei.uc.pt/
+  sub: ['AI','DES','VIS','CSCW']
+  note: part of evostar 2025
+
 - title: FAccT
   year: 2023
   id: facct23
