@@ -695,6 +695,19 @@
   end: 2024-10-03
   sub: HCI
 
+- title: MobileHCI
+  year: 2025
+  id: mobilehci25
+  link: https://mobilehci.acm.org/2025/callforpapers.php
+  deadline: '2025-02-06 23:59:59'
+  abstract_deadline: '2025-01-30 23:59:59'
+  timezone: UTC-12
+  place: Sharm El-Sheikh, Egypt
+  date: September, 22-26, 2025
+  start: 2025-09-22
+  end: 2025-09-26
+  sub: HCI
+
 - title: IEEE PacificVis
   year: 2024
   id: pacificvis24
@@ -962,7 +975,7 @@
   year: 2025
   id: wh25
   link: https://2025.worldhaptics.org
-  deadline: 'TBA'
+  deadline: '2025-01-31 23:59:59'
   timezone: UTC-8
   place: Suwon, Korea
   date: July, 8-11, 2025
