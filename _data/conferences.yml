@@ -85,6 +85,21 @@
   end: 2024-09-25
   sub: HCI
 
+- title: CC
+  year: 2025
+  id: cc25
+  full_name: Creativity & Cognition
+  link: https://cc.acm.org/2025/
+  deadline: '2025-02-06 23:59:59'
+  abstract_deadline: '2025-01-30 23:59:59'
+  timezone: UTC-12
+  place: Online
+  date: June, 23-25, 2025
+  start: 2025-06-23
+  end: 2025-06-25
+  sub: HCI
+  note: Mandatory abstract deadline on January 1, 2025.
+
 - title: CHI
   year: 2023
   id: chi23
