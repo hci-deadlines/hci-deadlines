@@ -217,8 +217,10 @@
   link: https://cscw.acm.org/2025/index.php/submit-papers/
   deadline: '2024-10-29 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: October/November 2025
+  place: Bergen, Norway
+  date: October, 18-22, 2025
+  start: 2025-10-18
+  end: 2025-10-22
   sub: CSCW
 
 - title: CUI
@@ -394,6 +396,17 @@
   date: June, 3-6, 2024
   start: 2024-06-03
   end: 2024-06-06
+  sub: HCI
+
+- title: FAccT
+  year: 2025
+  id: facct25
+  link: https://facctconference.org/2025/
+  deadline: '2025-01-22 23:59:59'
+  abstract_deadline: '2025-01-15 23:59:59'
+  timezone: UTC-12
+  place: Athens, Greece
+  date: TBD
   sub: HCI
 
 - title: GROUP (second wave)
