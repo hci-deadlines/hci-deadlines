@@ -853,6 +853,19 @@
   end: 2024-10-16
   sub: HCI
 
+- title: UIST
+  year: 2025
+  id: uist25
+  link: https://uist.acm.org/2025/
+  deadline: '2025-04-09 17:00:00'
+  abstract_deadline: '2024-04-02 17:00:00'
+  timezone: UTC-8
+  place: Busan, Korea
+  date: September 28th - October 1st, 2025
+  start: 2025-09-28
+  end: 2025-10-01
+  sub: HCI
+
 - title: VIS
   year: 2023
   id: vis23
