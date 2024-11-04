@@ -47,6 +47,18 @@
   end: 2024-10-30
   sub: HCI
 
+- title: ASSETS
+  year: 2025
+  id: assets25
+  link: https://assets25.sigaccess.org
+  deadline: '2025-04-16 23:59:59'
+  timezone: UTC-12
+  place: Denver, Colorado, USA
+  date: October 26-29 2025
+  start: 2025-10-26
+  end: 2025-10-29
+  sub: HCI
+
 - title: Augmented Humans
   year: 2024
   id: ah24
