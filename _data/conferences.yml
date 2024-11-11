@@ -263,6 +263,20 @@
   end: 2024-07-10
   sub: HCI
 
+- title: CUI
+  year: 2025
+  id: cui25
+  full_name: Conversational User Interfaces
+  link: https://cui.acm.org/2025/
+  deadline: '2025-02-20 23:59:59'
+  abstract_deadline: '2025-02-13 23:59:59'
+  timezone: UTC-12
+  place: Waterloo, Ontario, Canada
+  date: July, 8-10, 2025
+  start: 2025-07-08
+  end: 2025-07-10
+  sub: HCI
+
 - title: DIS
   year: 2023
   id: dis23
