@@ -71,6 +71,18 @@
   end: 2024-04-06
   sub: HCI
 
+- title: Augmented Humans
+  year: 2025
+  id: ah25
+  link: https://augmented-humans.org/calls-for-participation/
+  deadline: '2025-01-16 23:59:59'
+  timezone: UTC-12
+  place: Abu Dhabi, United Arab Emirates
+  date: March, 12-20, 2025
+  start: 2025-03-16
+  end: 2025-03-25
+  sub: HCI
+
 - title: AutoUI
   year: 2023
   id: autoui23
