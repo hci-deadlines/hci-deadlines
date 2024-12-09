@@ -109,6 +109,19 @@
   end: 2024-09-25
   sub: HCI
 
+- title: AutoUI
+  year: 2025
+  id: autoui25
+  link: https://www.auto-ui.org/25/
+  deadline: '2025-04-10 23:59:59'
+  abstract_deadline: '2025-04-03 23:59:59'
+  timezone: UTC-12
+  place: Brisbane, Australia
+  date: September, 20-24, 2025
+  start: 2025-09-20
+  end: 2025-09-24
+  sub: HCI
+
 - title: CC
   year: 2025
   id: cc25
