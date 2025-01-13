@@ -23,6 +23,18 @@
   end: 2024-09-18
   sub: HCI
 
+- title: ACII
+  year: 2025
+  id: acii2025
+  link: https://acii-conf.net/2025/call-for-papers/
+  deadline: '2025-03-31 23:59:59'
+  timezone: UTC-12
+  place: Canberra, Australia
+  date: October, 8-11, 2025
+  start: 2025-10-08
+  end: 2025-10-11
+  sub: HCI
+
 - title: ASSETS
   year: 2023
   id: assets23
@@ -198,17 +210,17 @@
   end: 2024-10-17
   sub: HCI
 
-# - title: CHI PLAY
-#   year: 2025
-#   id: chiplay25
-#   link: https://chiplay.acm.org/2025/
-#   deadline: '2024-02-21 23:59:59'
-#   timezone: UTC-12
-#   place: Pittsburgh, Pennsylvania, USA
-#   date: October, 13-16, 2025
-#   start: 2025-10-13
-#   end: 2025-10-16
-#   sub: HCI
+- title: CHI PLAY
+  year: 2025
+  id: chiplay25
+  link: https://chiplay.acm.org/2025/
+  deadline: '2025-02-19 23:59:59'
+  timezone: UTC-12
+  place: Pittsburgh, Pennsylvania, USA
+  date: October, 13-16, 2025
+  start: 2025-10-13
+  end: 2025-10-16
+  sub: HCI
 
 - title: CHItaly
   year: 2023
