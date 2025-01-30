@@ -234,6 +234,18 @@
   end: 2023-09-22
   sub: HCI
 
+- title: CHItaly
+  year: 2025
+  id: chitaly25
+  link: https://chitaly2025.di.unisa.it/contributions-call-for-papers/
+  deadline: '2025-04-21 23:59:59'
+  timezone: UTC-12
+  place: Salerno, Italy
+  date: October, 6-10, 2025
+  start: 2025-10-06
+  end: 2025-10-10
+  sub: HCI
+
 - title: CSCW
   year: 2023
   id: cscw23
