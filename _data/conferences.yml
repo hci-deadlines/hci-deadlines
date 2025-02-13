@@ -760,6 +760,15 @@
   end: 2024-10-30
   sub: HCI
 
+- title: ISS (First round)
+  year: 2025
+  id: iss25a
+  link: https://iss.acm.org/2025/
+  deadline: '2025-03-14 23:59:59'
+  timezone: UTC-12
+  place: N/A (conference postponed to 2026)
+  sub: HCI
+
 - title: ISWC Notes & Brief
   year: 2023
   id: iswc23
