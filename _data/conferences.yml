@@ -724,6 +724,19 @@
   end: 2024-10-25
   sub: XR
 
+- title: ISMAR
+  year: 2025
+  id: ismar25
+  link: https://www.ieeeismar.net/2025/
+  deadline: '2025-04-11 23:59:59'
+  abstract_deadline: '2025-04-04 23:59:59'
+  timezone: UTC-12
+  place: Daejeon, South Korea
+  date: October, 8-12, 2025
+  start: 2025-10-08
+  end: 2025-10-12
+  sub: XR
+
 - title: ISS (February round)
   year: 2023
   id: iss23a
