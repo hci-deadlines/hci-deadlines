@@ -497,9 +497,22 @@
 
 - title: Graphics Interface (December round)
   year: 2025
-  id: gi25
+  id: gi25dec
   link: https://graphicsinterface.org/conference/2025/
   deadline: '2024-12-15 23:59:59'
+  timezone: UTC-12
+  place: Kelowna, British Columbia, Canada
+  date: May, 26-29, 2025
+  start: 2025-05-26
+  end: 2025-05-29
+  hindex: 56
+  sub: HCI
+
+- title: Graphics Interface (March round)
+  year: 2025
+  id: gi25mar
+  link: https://graphicsinterface.org/conference/2025/
+  deadline: '2025-03-07 23:59:59'
   timezone: UTC-12
   place: Kelowna, British Columbia, Canada
   date: May, 26-29, 2025
